@@ -155,7 +155,7 @@ class ProfilePage extends StatelessWidget {
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: 4,
         selectedItemColor: Colors.black,
-        unselectedItemColor: Colors.grey,
+        unselectedItemColor: Colors.red,
         showSelectedLabels: false,
         showUnselectedLabels: false,
         items: [
